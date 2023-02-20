@@ -1,6 +1,6 @@
 {
-  "name": "webrtc-demo",
-  "version": "0.0.0",
+  "name": "video-chat",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
