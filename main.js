@@ -4,15 +4,7 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA3vjRuanu19l8oN4bY_HDRwD-lvp96Dy8",
-  authDomain: "streamsvision.firebaseapp.com",
-  databaseURL:
-    "https://streamsvision-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "streamsvision",
-  storageBucket: "streamsvision.appspot.com",
-  messagingSenderId: "173729724602",
-  appId: "1:173729724602:web:0e903e95097a974325aa83",
-  measurementId: "G-KG3RBDTVRG",
+  // Your Firebase Config
 };
 
 if (!firebase.apps.length) {
